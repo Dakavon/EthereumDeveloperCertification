@@ -1,0 +1,23 @@
+{
+  "name": "niels-code",
+  "version": "1.0.0",
+  "description": "exam by https://academy.b9lab.com",
+  "private": true,
+  "scripts": {
+    "start": "cd ./client/ && npm start",
+    "dev": "cd ./client/ && npm start"
+  },
+  "author": "Niels Launert",
+  "email": "niels@blockwerft.de",
+  "license": "Unlicense",
+  "devDependencies": {
+    "create-react-app": "^4.0.3",
+    "truffle": "5.0.8",
+    "truffle-assertions": "^0.9.2",
+    "truffle-contract": "^1.1.11",
+    "web3": "^0.18.2"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}
