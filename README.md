@@ -60,4 +60,4 @@ A simple GUI should also be created which you can see below.
 
 ## Credits
 - TollRoad icon designed by Smashicons from Flaticon
-- Wouldn't have made it without the brilliant docs from chakra-ui/chakra-ui (@chakra-ui/react)
+- Wouldn't have made it without the brilliant docs from https://github.com/chakra-ui/chakra-ui (@chakra-ui/react)
