@@ -57,3 +57,7 @@ A simple GUI should also be created which you can see below.
 - can inspect pending and normal exits
 
 ![TollRoadApp_v1-0-0_Booth](screenshots/TollRoad_Booth.png)
+
+## Credits
+- TollRoad icon designed by Smashicons from Flaticon
+- Wouldn't have made it without the brilliant docs from chakra-ui/chakra-ui (@chakra-ui/react)
